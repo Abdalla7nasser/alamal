@@ -471,7 +471,10 @@ position: relative;
 .bgggg{
   background-color: #444;
 }
-
+.heitt{
+ height: 300px !important;
+ width: 50%;
+}
 
 /* loading */
 
